@@ -19,7 +19,7 @@ namespace WebApplication6.Pages
 
         public void OnGet()
         {
-
+            var test = "name";
         }
     }
 }
